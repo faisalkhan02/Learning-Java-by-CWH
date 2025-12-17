@@ -70,7 +70,7 @@ This repository demonstrates strong fundamentals of Java programming, object-ori
 ## 👤 Author
 
 **Faisal Khan**  
-Java Learner | Aspiring Software Developer  
+Java Learner  
 
 ---
 
