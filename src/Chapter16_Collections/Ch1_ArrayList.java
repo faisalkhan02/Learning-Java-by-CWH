@@ -27,6 +27,8 @@ public class Ch1_ArrayList {
 
         l1.add(2,9); // add 9 at index 2 but previous element not remove
 
+        System.out.println(l2);
+
         System.out.println(l1);
 
         l1.addAll(3,l2); // add l2 collection's element in l1 at 3 index
@@ -36,6 +38,11 @@ public class Ch1_ArrayList {
         System.out.println(l1.contains(6));  // return true or false
 
         System.out.println(l1.indexOf(9));  // return index of 9  = 2
+
+        System.out.println(l1.indexOf(150));  // return -1 if false
+
+        System.out.println(l1.remove(8)); // remove element at index 8
+
 
     }
 }
